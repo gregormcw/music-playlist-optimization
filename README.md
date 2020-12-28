@@ -1,2 +1,2 @@
 # music-playlist-optimization
-Function that optimizes music playlist memory utilization.
+Function that optimizes music playlist memory utilization
